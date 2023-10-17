@@ -27,3 +27,46 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+#Jordans-1 {
+  height: 400px;
+  width: 600px;
+  outline-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#Jordans-2 {
+  height: 400px;
+  width: 600px;
+  outline-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+body {
+  background-color: slategrey;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  color: darkslategray;
+  text-decoration: underline;
+  text-decoration-color: black;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  outline-style: solid;
+  outline-color: black;
+  text-shadow: 2px 2px 6px aqua;
+}
+
+#jordan1-link {
+  color: white;
+}
+
+#jordan2-link {
+  color: white;
+}
